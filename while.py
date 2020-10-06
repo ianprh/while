@@ -1,4 +1,4 @@
 while True :
     name = input('請輸入姓名:')
-    if name == "q":
+    if name == "q5":
     	break
